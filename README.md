@@ -3,5 +3,5 @@ Old Fork of the PyNews V1.3 project
 
 [This](https://www.youtube.com/watch?v=oE9nEo-ekjw)
 or, 
-maybe..
+maybe
 this [one](https://www.youtube.com/watch?v=-Nxf9GbxZME):
